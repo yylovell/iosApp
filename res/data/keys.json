@@ -1,0 +1,38 @@
+[
+  {
+    "path": "all",
+    "name": "ALL",
+    "short_name": "ALL",
+    "checked": true
+  },
+  {
+    "path": "yy",
+    "name": "yy",
+    "checked": true
+  },
+  {
+    "path": "react-native",
+    "name": "React Native",
+    "checked": true
+  },
+  {
+    "path": "java",
+    "name": "Java",
+    "checked": false
+  },
+  {
+    "path": " python",
+    "name": " Python",
+    "checked": false
+  },
+  {
+    "path": " jquery",
+    "name": " jQuery",
+    "checked": false
+  },
+  {
+    "path": " react",
+    "name": " React",
+    "checked": true
+  }
+]
